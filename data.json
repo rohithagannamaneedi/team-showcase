@@ -1,0 +1,11 @@
+[
+    {
+        "id":1,"name":"John Doe","jobtitle":"Software Engineer"
+    },
+    {
+        "id":2,"name":"Rohitha","jobtitle":"Designer"
+    },
+    {
+        "id":3,"name":"Kundan","jobtitle":"Developer"
+    }
+]
